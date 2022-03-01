@@ -23,8 +23,8 @@ try:
 except: pass
 sesis = listdir('sessions')
 sesis.sort()
-api_id = 2839216
-api_hash = '967fc90f9013e51dd7fe0713c35e28f8'
+api_id = 16880656
+api_hash = '77242ac45a63db6b7aa8b4ad60a19826'
 if args.help:
     print(f'''Help:
   -an {Fore.LIGHTBLUE_EX}NUMBER{Fore.RESET}, --add-number {Fore.LIGHTBLUE_EX}NUMBER{Fore.RESET} ~> {Fore.YELLOW}add account to script{Fore.RESET}
@@ -94,18 +94,17 @@ elif args.add_number == None and args.run != None and args.target != None and ar
                     # result = await cli(functions.messages.ReportSpamRequest(peer=target))
                         # functions.account.ReportPeerRequest(peer=target, reason=types.InputReportReasonPornography(), message='This channel sends offensive content'))
                     if args.mode == 'spam':
-                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonSpam(), message="This channel sends offensive content"))                        # functions.account.ReportPeerRequest(peer=target, reason=types.InputReportReasonViolence()))
+                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonSpam(), message="This channel is a Russian propoganda channel, spreading misinformation AND TACTICAL POSITION OF UKRAINIAN FORCES to the Russian military."))                        # functions.account.ReportPeerRequest(peer=target, reason=types.InputReportReasonViolence()))
                     elif args.mode == 'fake_account':
-                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonFake(), message="This channel sends offensive content"))
+                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonFake(), message="This channel is a Russian propoganda channel, spreading misinformation AND TACTICAL POSITION OF UKRAINIAN FORCES to the Russian military."))
                     elif args.mode == 'violence':
-                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonViolence(), message="This channel sends offensive content"))
+                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonViolence(), message="This channel is a Russian propoganda channel, spreading misinformation AND TACTICAL POSITION OF UKRAINIAN FORCES to the Russian military."))
                     elif args.mode == 'child_abuse':
-                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonChildAbuse(), message="This channel sends offensive content"))
+                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonChildAbuse(), message="This channel is a Russian propoganda channel, spreading misinformation AND TACTICAL POSITION OF UKRAINIAN FORCES to the Russian military."))
                     elif args.mode == 'pornography':
-                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonPornography(), message="This channel sends offensive content"))
-                  
+                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonPornography(), message="This channel is a Russian propoganda channel, spreading misinformation AND TACTICAL POSITION OF UKRAINIAN FORCES to the Russian military."))
                     elif args.mode == 'geoirrelevant':
-                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonGeoIrrelevant(), message="This channel sends offensive content"))                        # functions.account.ReportPeerRequest(peer=target, reason=types.InputReportReasonViolence()))
+                        result = await cli(functions.messages.ReportRequest(peer=target, id=repMess, reason=types.InputReportReasonGeoIrrelevant(), message="This channel is a Russian propoganda channel, spreading misinformation AND TACTICAL POSITION OF UKRAINIAN FORCES to the Russian military."))                        # functions.account.ReportPeerRequest(peer=target, reason=types.InputReportReasonViolence()))
                     if result:
                         print(f" [{Fore.GREEN}✅{Fore.RESET}] Reported :) Ac:{Fore.YELLOW}{selfName}{Fore.RESET} count:{Fore.LIGHTBLUE_EX}{r}{Fore.RESET}")
                     else:
