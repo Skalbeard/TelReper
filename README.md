@@ -1,4 +1,5 @@
 ***Noone is going to track you. This is a legal developer feature that we are using through the Telegram public API***
+***AND YES. You get added to the channel that you are reporting. But you are an observer, can't post there or get associated with it in any way.***
 
 instructions
 
