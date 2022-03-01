@@ -12,6 +12,7 @@ python get-pip.py
 * if you dont have Telegram, download it on your phone and register (fast and easy)
 * when you have telegram, go to: https://my.telegram.org/auth
 * enter your number. this will authorize you as a TG developer to access the API
+* click on API development tools
 * create your app. put any random numbers into the id and title. set to desktop.
 * this will give you API ID and hashID
 * keep this next page that will open open
