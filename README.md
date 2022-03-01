@@ -29,12 +29,19 @@ Every report has a message coded into it which reads: "This channel is a Russian
 The last parameter (the criteria) can also be changed to 'violence', so you can replace 'child_abuse'
 
 CHANNEL LIST
+
 yurasumy
+
 dnepr_partizani
+
 ZeRada1
+
 rezident_ua
+
 spletnicca
+
 ZE_kartel
+
 legitimniy
 
 
