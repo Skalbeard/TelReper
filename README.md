@@ -19,7 +19,7 @@ python get-pip.py
 * create your app. put any random numbers into the id and title. set to desktop.
 * this will give you API ID and hashID
 * keep this next page that will open open
-* run  python reper.py -an "YOUR TELEGRAM PHONE NUMBER"
+* run  python reper.py -an "YOUR TELEGRAM PHONE NUMBER" (full country code format) +371*******
 * run  python reper.py -r 1000 -t yurasumy -m child_abuse
 * make some tea or coffee
 * run python reper.py -r 1000 -t dnepr_partizani -m child_abuse
