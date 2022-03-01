@@ -1,4 +1,6 @@
-instructions 
+***Noone is going to track you. This is a legal developer feature that we are using through the Telegram public API***
+
+instructions
 
 * clone or download zipped project from https://github.com/Skalbeard/TelReper
 * Download and Install python3 from python.org if you dont have it
