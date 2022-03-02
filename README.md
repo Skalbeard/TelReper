@@ -55,3 +55,17 @@ first_political
 mediakiller
 
 buntariy
+
+mudak
+
+buntariy
+
+ebobo_rus
+
+warfakes
+
+SIL0VIKI
+
+mosnow
+
+https://t.me/joinchat/AAAAAEG9D2xsO4xhFP_EFQ  - a channel that I cant find the name of
