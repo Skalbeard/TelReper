@@ -69,3 +69,23 @@ SIL0VIKI
 mosnow
 
 https://t.me/joinchat/AAAAAEG9D2xsO4xhFP_EFQ  - a channel that I cant find the name of
+
+
+INSTAGRAM INFLUENCERS BOUGHT BY RUSSIAN PROPOGANDA CHANNELS
+
+
+amiran495 (https://www.instagram.com/amiran495)
+annakalash (https://instagram.com/annakalash?utm_medium=copy_link)
+sonechka_mur (https://instagram.com/sonechka_mur_?utm_medium=copy_link)_
+viktoria_krylova (https://instagram.com/viktoria__krylova?utm_medium=copy_link)
+oxana_german (https://instagram.com/oxana_german?utm_medium=copy_link)
+iren_berman (https://instagram.com/iren.berman?utm_medium=copy_link)
+basilesa (https://instagram.com/basilesa?utm_medium=copy_link)
+mama_anj (https://instagram.com/mama_anj?utm_medium=copy_link)
+ayz_mua (https://instagram.com/ayz_mua?utm_medium=copy_link)
+yulka.simpampylka (https://instagram.com/yulka.simpampylka?utm_medium=copy_link)
+nari_man007 (https://www.instagram.com/nari_man007/)
+mmatriumf88 (https://www.instagram.com/mmatriumf88/)
+kalugaregion40 (https://instagram.com/kalugaregion40?utm_medium=copy_link)
+rina_sara (https://www.instagram.com/rina_sara/)
+vadim_kazachenko (https://instagram.com/vadimkazachenko13?utm_medium=copy_link)
