@@ -73,12 +73,11 @@ colonel_cassad
 boris_rozhin
 
 rossia_news
+-1001102909292    - arī kanāls!
 
 
 
-AAAAAEG9D2xsO4xhFP_EFQ - minējums par apakšā redzamā kanāla id
 
-https://t.me/joinchat/AAAAAEG9D2xsO4xhFP_EFQ  - a channel that I cant find the name of
 
 
 INSTAGRAM INFLUENCERS BOUGHT BY RUSSIAN PROPOGANDA CHANNELS
