@@ -54,8 +54,6 @@ first_political
 
 mediakiller
 
-buntariy
-
 mudak
 
 buntariy
