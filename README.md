@@ -84,6 +84,12 @@ ntvnews
 
 dpscontrol_public
 
+rian_ru
+
+moscowmap
+
+readovkanews
+
 
 -1001102909292    - arī kanāls!
 
