@@ -71,6 +71,15 @@ colonel_cassad
 boris_rozhin
 
 rossia_news
+
+istorijaoruzija
+
+rus_armi
+
+vegcelo
+
+
+
 -1001102909292    - arī kanāls!
 
 
