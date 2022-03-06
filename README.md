@@ -20,9 +20,9 @@ python get-pip.py
 * this will give you API ID and hashID
 * keep this next page that will open open
 * run  python reper.py -an "YOUR TELEGRAM PHONE NUMBER" (full country code format) +371*******
-* run  python reper.py -r 1000 -t yurasumy -m child_abuse
+* run  python reper.py -r 42 -t yurasumy -m child_abuse
 * make some tea or coffee
-* run python reper.py -r 1000 -t dnepr_partizani -m child_abuse
+* run python reper.py -r 42 -t dnepr_partizani -m child_abuse
 * at this point the last command can be repeated. we are looking for more channels. The parameter that is 1000 is the times that we report the channel. the name of the channel is after -t and the last part of the command is the criteria by which we report it.
 Every report has a message coded into it which reads: "This channel is a Russian propoganda channel, spreading misinformation AND TACTICAL POSITION OF UKRAINIAN FORCES to the Russian military."
 
